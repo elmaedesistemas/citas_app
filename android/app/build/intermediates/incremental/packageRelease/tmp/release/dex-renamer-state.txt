@@ -1,0 +1,4 @@
+#Sun May 24 23:36:18 CST 2020
+base.0=/home/dmr1204/Workspaces/react-native/quotes_app/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
